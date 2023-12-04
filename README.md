@@ -5,6 +5,8 @@ This is a simple web-based random password generator that allows users to genera
 - Generates random passwords with letters, numbers, and special characters.
 - Copy password functionality for easy usage.
 - Simple interface for quick password generation.
+## Preview
+![Uploading Screenshot 2023-12-04 193057.png…]()
 
 ## Usage
 - Open `index.html` in a web browser.
